@@ -1,0 +1,19 @@
+//Zarz¹dzanie drzwiami
+#define		UPR_DOOR_LISTA		2
+#define		UPR_DOOR_INFO		4
+#define		UPR_DOOR_ZAMKNIJ	8
+#define		UPR_DOOR_UID		16
+#define		UPR_DOOR_PICKUP		32
+#define		UPR_DOOR_URL		64
+#define		UPR_DOOR_NAZWA		128
+#define		UPR_DOOR_OWNER		256
+#define		UPR_DOOR_TYP		512
+#define		UPR_DOOR_STWORZ		1024
+#define		UPR_DOOR_WYJSCIE	4096
+#define		UPR_DOOR_WEJSCIE	8192
+#define		UPR_DOOR_EXVW		16384
+#define		UPR_DOOR_ENVW		32768
+#define		UPR_DOOR_GARAZ		65536
+#define		UPR_DOOR_USUN		131072
+#define		UPR_DOOR_GOTO		262144
+//Total - 524286
